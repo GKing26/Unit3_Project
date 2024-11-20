@@ -1,0 +1,9 @@
+
+>--- Question 1
+The base case is when then a variable I made and the global variable is the same, I tick up the inside variable that sees the place it is
+
+>--- Question 2
+     it should save the angle, current branch will be tracked, the length will be subtracted, the width, and the position should be saved to go back and make new branches
+
+>--- Question 3
+     Making it branch off, making it get smaller and thinner, make the base case change the color and actually stop and go backwards
